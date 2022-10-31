@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/React-To-Do-App/static/js/main.4eddced1.chunk.js",
+    "main.js.map": "/React-To-Do-App/static/js/main.4eddced1.chunk.js.map",
+    "runtime-main.js": "/React-To-Do-App/static/js/runtime-main.90e73874.js",
+    "runtime-main.js.map": "/React-To-Do-App/static/js/runtime-main.90e73874.js.map",
+    "static/js/2.eb38b736.chunk.js": "/React-To-Do-App/static/js/2.eb38b736.chunk.js",
+    "static/js/2.eb38b736.chunk.js.map": "/React-To-Do-App/static/js/2.eb38b736.chunk.js.map",
+    "index.html": "/React-To-Do-App/index.html",
+    "precache-manifest.e600cb63b9ef00f163144b990ba0bbbb.js": "/React-To-Do-App/precache-manifest.e600cb63b9ef00f163144b990ba0bbbb.js",
+    "service-worker.js": "/React-To-Do-App/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90e73874.js",
+    "static/js/2.eb38b736.chunk.js",
+    "static/js/main.4eddced1.chunk.js"
+  ]
+}
